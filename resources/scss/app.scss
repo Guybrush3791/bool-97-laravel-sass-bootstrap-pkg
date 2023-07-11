@@ -1,0 +1,15 @@
+@import '~bootstrap/scss/bootstrap';
+
+@import 'partials/home';
+
+body {
+    h1 {
+        color: red !important;
+    }
+}
+
+
+.f-right {
+
+    float: right;
+}
